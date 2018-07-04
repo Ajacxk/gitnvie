@@ -27,6 +27,7 @@ body{
     background: #659c80;
     margin: 0;
     background: #f9dec9;
+    min-height: 100vh;
 }
 
 table{
@@ -243,6 +244,7 @@ table, td, th{
 
 .tabla{
     margin: 50px 0;
+    min-height: 40vh;
 }
 
 div img:hover{
