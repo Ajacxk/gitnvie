@@ -26,6 +26,7 @@ body{
     font-family: 'Allerta', sans-serif;
     background: #659c80;
     margin: 0;
+    background: #f9dec9;
 }
 
 table{
@@ -79,7 +80,7 @@ table, td, th{
     background-size: cover;
 }
 .guitarras{
-    color: #1F313C;
+    color: #1F313C;    
     margin-bottom: 60px;
 
 }
@@ -176,7 +177,7 @@ table, td, th{
 }
 
 .footer{
-    background: #273b47;
+    background: #c4a77d;
 }
 
 .contacto{
